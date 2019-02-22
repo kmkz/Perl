@@ -1,4 +1,4 @@
 Perl
 ====
 
-Some personal perl scripts and tools
+Some personal Perl scripts and tools.
